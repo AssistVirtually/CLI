@@ -12,7 +12,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
 }
 
 a { 
-	color: #003da6; 
+	color: ##003da6; 
 }
 
 a:hover { 
@@ -97,8 +97,8 @@ a:hover {
 }
 
 .navbar-default {
-	background: #003da6; 
-	border-color: #003da6; 
+	background: ##003da6; 
+	border-color: ##003da6; 
 	font-family: 'Ubuntu', sans-serif;
 	font-weight: 500;
 }
@@ -116,15 +116,15 @@ a:hover {
 }
 
 .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
-	background: #003da6; 
+	background: ##003da6; 
 	
 }
 
 .navbar-default ul li:hover > .dropdown-menu { display: block !important; }
 
 .navbar-default .dropdown-menu { 	
-	background: #003da6; 
-	border-color: #003da6;
+	background: ##003da6; 
+	border-color: ##003da6;
 }
 
 .dropdown-menu>li>a {
@@ -267,7 +267,7 @@ a:hover {
 }
 
 .listing-price .price {
-	color: #003da6 !important;
+	color: ##003da6 !important;
 }
 
 
@@ -306,7 +306,7 @@ a:hover {
 .promo .item_title { text-align: center; }
 .promo .item_title a { color: #555; }
 .promo .item_title a:hover { text-decoration: none; }
-.promo .item_price { text-align: center; font-weight: 700; color: #003da6;  }
+.promo .item_price { text-align: center; font-weight: 700; color: ##003da6;  }
 
 
 
@@ -359,7 +359,7 @@ a:hover {
 }
 
 .tabs input:checked + label, .tabs input:checked ~ label.mobile-label {
- color: #003da6;
+ color: ##003da6;
 }
 
 #tab0:checked ~ #content0,
